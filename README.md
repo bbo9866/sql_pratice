@@ -5,14 +5,6 @@
 > `MySQL`, `Oracle` 등을 기준으로 쿼리를 구성할 예정입니다.
 
 ---
-## 🧩 목표
-
-- ✅ SELECT, JOIN, 서브쿼리 등 **핵심 문법 완벽 이해**
-- ✅ 실무에 필요한 **데이터 집계, 분석 쿼리 작성 능력 향상**
-- ✅ 다양한 SQL 플랫폼(LeetCode, 백준, 프로그래머스 등) 문제 풀이 경험 축적
-
->
----
 ## 🧪 실행 환경
 
 | 항목 | 내용 |
@@ -20,3 +12,22 @@
 | DBMS | MySQL 8.0 / Oracle 11.2 |
 | 사용 툴 | DBeaver |
 | 연습용 데이터 | `SCOTT`, 직접 생성한 샘플 테이블 |
+
+
+<br>
+<br>
+
+## 🐘 SQL Team Practice
+
+> 4명이 한 조가 되어 SQL 문제를 직접 출제하고 풀이한 내용을 정리합니다.  
+> 문제 설계부터 쿼리 작성, 해설까지 개별 `.md` 파일로 기록하며 SQL 실력을 함께 향상시켜 나갑니다.
+---
+
+### 👥 팀 구성
+
+| 이름 | 역할 | GitHub |
+|------|------|--------|
+| 박지원 | 문제 1 출제 및 풀이 | <img src="https://github.com/bbo9866.png" width="30"/> |
+| 이기현 | 문제 2 출제 및 풀이 | <img src="https://github.com/GIHYUN-LEE.png" width="30"/> |
+| 임채준 | 문제 3 출제 및 풀이 | <img src="https://github.com/dlacowns21.png" width="30"/> |
+| 홍혜영 | 문제 4 출제 및 풀이 | <img src="https://github.com/hyewon8245.png" width="30"/> |
